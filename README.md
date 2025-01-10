@@ -15,9 +15,18 @@ Menu-ly is an intuitive and user-friendly iOS application designed to streamline
 
 ## Screenshots
 
-![login](https://github.com/user-attachments/assets/5bcb6e61-a142-463e-ae04-91304e31be74)
-![menu_page](https://github.com/user-attachments/assets/d6bf7aef-bf43-4597-98ff-434ffe0ac6dc)
-<img width="360" alt="select_flashcards" src="https://github.com/user-attachments/assets/dbebce06-1a3d-4c8b-916b-e05a12b97f95" />
+Here are some screenshots of the app in action:
+
+### Login Page
+<img src="https://github.com/user-attachments/assets/8245f304-b095-44e3-a89f-33de22394056" alt="login" width="300" />
+
+### Menu Page
+<img src="https://github.com/user-attachments/assets/38cf2222-4d37-4005-ab03-14beabced8ca" alt="menu_page" width="300" />
+
+### Select Flashcards Page
+<img src="https://github.com/user-attachments/assets/9eeda440-3b68-47d8-b92d-6668ca5699af" alt="select_flashcards" width="300" />
+
+
 
 ---
 
